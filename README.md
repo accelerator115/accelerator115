@@ -12,4 +12,141 @@ I'm Accelerator, a freshman of South China Agricultural University (SCAU) in Gua
 - ⚡ Fun fact: I enjoy coding in my free time.
 
 
-## 
+## My Tech Stack 💻
+> My most-skilled
+<table>
+    <tr>
+        <td align="center" width="90">
+            <a href="#my-tech-stack-">
+                <img src="https://skillicons.dev/icons?i=html" alt="html" width="45" height="45" />
+            </a>
+            <br/> HTML
+        </td>
+        <td align="center" width="90">
+            <a href="#my-tech-stack-">
+                <img src="https://skillicons.dev/icons?i=css" alt="css" width="45" height="45" />
+            </a>
+            <br/> CSS
+        </td>
+        <td align="center" width="90">
+            <a href="#my-tech-stack-">
+                <img src="https://skillicons.dev/icons?i=js" alt="js" width="45" height="45" />
+            </a>
+            <br/> JavaScript
+        </td>
+        <td align="center" width="90">
+            <a href="#my-tech-stack-">
+                <img src="https://skillicons.dev/icons?i=ts" alt="ts" width="45" height="45" />
+            </a>
+            <br/> TypeScript
+        </td>
+        <td align="center" width="90">
+            <a href="#my-tech-stack-">
+                <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="45" height="45" />
+            </a>
+            <br/> Node.js
+        </td>
+        <td align="center" width="90">
+            <a href="#my-tech-stack-">
+                <img src="https://skillicons.dev/icons?i=express" alt="express" width="45" height="45" />
+            </a>
+            <br/> Express
+        </td>
+        <td align="center" width="90">
+            <a href="#my-tech-stack-">
+                <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="45" height="45" />
+            </a>
+            <br/> Mysql
+        </td>
+        <td align="center" width="90">
+            <a href="#my-tech-stack-">
+                <img src="https://skillicons.dev/icons?i=c" alt="c" width="45" height="45" />
+            </a>
+            <br/> C
+        </td>
+    </tr>
+    <tr>
+        <td align="center" width="90">
+            <a href="#my-tech-stack-">
+                <img src="https://skillicons.dev/icons?i=vue" alt="vue" width="45" height="45" />
+            </a>
+            <br/> Vue
+        </td>
+        <td align="center" width="90">
+            <a href="#my-tech-stack-">
+                <img src="https://skillicons.dev/icons?i=react" alt="react" width="45" height="45" />
+            </a>
+            <br/> React
+        </td>
+        <td align="center" width="90">
+            <a href="#my-tech-stack-">
+                <img src="https://skillicons.dev/icons?i=vite" alt="Vite" width="45" height="45" />
+            </a>
+            <br/> Vite
+        </td>
+        <td align="center" width="90">
+            <a href="#my-tech-stack-">
+                <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" width="45" height="45" />
+            </a>
+            <br/> Tailwind
+        </td>
+    </tr>
+</table>
+
+> Also passionate for
+<table>
+    <tr>
+        <td align="center" width="90">
+            <a href="#my-tech-stack-">
+                <img src="https://skillicons.dev/icons?i=cpp" alt="cpp" width="45" height="45" />
+            </a>
+            <br/> C++
+        </td>
+        <td align="center" width="90">
+            <a href="#my-tech-stack-">
+                <img src="https://skillicons.dev/icons?i=py" alt="python" width="45" height="45" />
+            </a>
+            <br/> Python
+        </td>
+    </tr>
+</table>
+
+> Learning
+<table>
+  <tr>
+    <td align="center" width="90">
+        <a href="#my-tech-stack-">
+            <img src="https://skillicons.dev/icons?i=java" alt="java" width="45" height="45" />
+        </a>
+        <br/> Java
+    </td>
+    <td align="center" width="90">
+      <a href="#my-tech-stack-">
+        <img src="https://skillicons.dev/icons?i=dart" alt="dart" width="45" height="45" />
+      </a>
+      <br/> Dart
+    </td>
+    <td align="center" width="90">
+      <a href="#my-tech-stack-">
+        <img src="https://skillicons.dev/icons?i=flutter" alt="python" width="45" height="45" />
+      </a>
+      <br/> Flutter
+    </td>
+  </tr>
+</table>
+
+## Github stats 🚀
+
+> Here is my Github profile stats:
+
+<div>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img alt="rzashakeri's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=accelerator115
+&show_icons=true&count_private=true&theme=default&hide_border=true&bg_color=fff&title_color=00E676&icon_color=00E676" height="192px"/>
+    </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img alt="rzashakeri's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=accelerator115
+&langs_count=8&layout=compact&theme=default&hide_border=true&bg_color=fff&title_color=000&icon_color=000" height="192px"/>
+  </a>
+</div>
+<br />
