@@ -135,6 +135,12 @@ I'm Accelerator, a freshman of South China Agricultural University (SCAU) in Gua
       </a>
       <br/> Flutter
     </td>
+    <td align="center" width="90">
+      <a href="#my-tech-stack-">
+        <img src="https://skillicons.dev/icons?i=rust" alt="python" width="45" height="45" />
+      </a>
+      <br/> Rust
+    </td>
   </tr>
 </table>
 
